@@ -1,6 +1,8 @@
 # Ignore build generation
 /build/
-/dependencies/
+/dependencies/*.cpp
+/dependencies/*.h
+/dependencies/*.hpp
 
 # Prerequisites
 *.d
