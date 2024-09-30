@@ -1,9 +1,3 @@
-# Ignore build generation
-/build/
-/dependencies/*.cpp
-/dependencies/*.h
-/dependencies/*.hpp
-
 # Prerequisites
 *.d
 
@@ -36,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# VS Stuff
+/.vscode/**
