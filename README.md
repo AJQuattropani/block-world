@@ -16,7 +16,7 @@ The current implementation requires a CPU with AVX2 instruction set support mini
 3. Make and move into a build directory, and build project. For building at the same location as the repo:
    ```bash
    > mkdir build && cd build
-   > cmake ../block-world-linux
+   > cmake ../block-world
    > cmake --build .
    ```
 4. Run the output executable. You should get a window.
