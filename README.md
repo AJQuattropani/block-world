@@ -1,5 +1,5 @@
 # BlockWorld
-Block World development moved to a new repo on Linux.
+Block World development moved to a new repo and a new build system, compatible with Linux!
 
 The current goal is to get development on Block World so that non-Windows friends can also try it out, and make some deep revisions to the original program structure for long-term sustainability.
 
