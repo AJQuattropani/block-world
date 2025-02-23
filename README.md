@@ -11,7 +11,7 @@ The current implementation requires a CPU with AVX2 instruction set support mini
    ```
 2. Clone the repository inside the folder.
    ```bash
-   > git clone https://github.com/AJQuattropani/block-world-linux.git
+   > git clone https://github.com/AJQuattropani/block-world.git
    ```
 3. Make and move into a build directory, and build project. For building at the same location as the repo:
    ```bash
