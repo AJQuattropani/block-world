@@ -29,6 +29,7 @@ Block World is in in-dev project that uses OpenGL/C++ and modern parallel proces
 It is a basic sandbox, with the ability to place and break blocks, a day/night cycle, and a procedurally-generated landscape.
 
 
+
 <img src="Photos/8.8.2024.png" alt="Daylight, 6/30/2024" style="width=200">
 <img src="Photos/7.27.2024 (2).png" alt="Daylight, 6/30/2024" style="width=200">
 
