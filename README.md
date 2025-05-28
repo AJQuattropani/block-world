@@ -15,10 +15,11 @@ The current implementation requires a CPU with AVX2 instruction set support mini
    ```
 3. Make and move into a build directory, and build project. For building at the same location as the repo:
    ```bash
-   > mkdir build && cd build
-   > cmake ../block-world
-   > cmake --build .
+   (1) > mkdir build && cd build
+   (2) > cmake ../block-world
+   (3) > cmake --build .
    ```
+NOTE: As of 5/28/2025, a CMake 4.0 has released but some project dependencies may not have updated their repositories yet to reflect the policypolicy change. It may be necessary to add `-DCMAKE_POLICY_VERSION_MINIMUM=3.5 to the build configuration comment (2) to build the dependencies.`
 4. Run the output executable. You should get a window.
    ```bash
    > ./BlockWorld
